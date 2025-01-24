@@ -5,9 +5,6 @@ export const App = () => {
     <>
 
       <CardCompo />
-      <CardCompo />
-      <CardCompo />
-      <CardCompo />
 
     </>
   )
